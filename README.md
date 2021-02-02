@@ -1,4 +1,4 @@
-# Covid Vaccine
+# Covid Vaccine Adverse Effect Study Based on VAERS
  Study Vaccine Adverse Effect Report System (VAERS) for Covid Vaccines.
  Source data are from the VAERS dated from 2021/1/1 to 2021/1/21.
  
